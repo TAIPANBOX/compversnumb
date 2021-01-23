@@ -1,5 +1,5 @@
 /*
-165. Compare Version Numbers
+165. Compare Version Numbers.
 https://leetcode.com/problems/compare-version-numbers/
 
 Compare two version numbers version1 and version2.
